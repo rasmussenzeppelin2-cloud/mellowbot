@@ -1,0 +1,25 @@
+{
+  "name": "Mellow \u2014 AI Workspace",
+  "short_name": "Mellow",
+  "description": "One calm AI workspace: multi-model chat, image generation, coding, feedback and agents.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f5f0",
+  "theme_color": "#4f7d6a",
+  "icons": [
+    {
+      "src": "/icons/mellow-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/mellow-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
